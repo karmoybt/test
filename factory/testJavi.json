@@ -1,0 +1,9 @@
+{
+	"name": "testJavi",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4770f45c-48ef-422a-a888-be894a12e1c0",
+		"tenantId": "e2353829-feba-479d-8b46-3c5d20e68da7"
+	}
+}
