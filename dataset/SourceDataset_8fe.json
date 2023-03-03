@@ -1,0 +1,15 @@
+{
+	"name": "SourceDataset_8fe",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Tibd",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "MySqlTable",
+		"schema": [],
+		"typeProperties": {
+			"tableName": "`migrations`"
+		}
+	}
+}
