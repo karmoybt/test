@@ -1,0 +1,12 @@
+{
+	"name": "Tibd",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "MySql",
+		"typeProperties": {
+			"connectionString": "server=gateway01.eu-central-1.prod.aws.tidbcloud.com;port=4000;database=Dataset_Migracion;user=3JXGwkGQUT74XHb.root;sslmode=1;usesystemtruststore=0",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDI0MEM5NTdDLUFEMjQtNENDRi05MzY3LTU5ODE1NTI4QTg1Ql8wZDAwZDU3MS1iYTI0LTRmOTctODY0My0wNDU1OGRhZmRhNzYiDQp9"
+		}
+	}
+}
