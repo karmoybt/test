@@ -1,0 +1,9 @@
+{
+	"name": "testJavi",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "francecentral"
+}
